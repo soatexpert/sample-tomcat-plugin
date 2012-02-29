@@ -5,7 +5,7 @@
 
     <servlet>
         <servlet-name>FooServlet</servlet-name>
-        <servlet-class>com.jetoile.maven.tomcat.sample.FooServlet</servlet-class>
+        <servlet-class>fr.soat.maven.tomcat.sample.FooServlet</servlet-class>
     </servlet>
     
     <servlet-mapping>

@@ -21,7 +21,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package com.jetoile.maven.tomcat.sample;
+package fr.soat.maven.tomcat.sample;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
